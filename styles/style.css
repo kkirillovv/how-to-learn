@@ -9,23 +9,41 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-.header {
-  height: 100vh;
-  min-height: 600px;
-  max-height: 756px;
-  /* выше установили ограничения для секции */
+/*div, .description, .digits, .footer {
+  border: 1px solid red;
+}*/
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
-.header__square-pic {
-  height: 568px;
-  width: 568px;
+.flex-row {
+  display: flex;
+  flex-direction: row;
 }
 
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+  width: 228px;
+  height: 32px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.logo_place_header {
+  position: absolute;
+  top: 30px;
+  left: 64px;
+  background-image: url(../images/logo_place_header.svg);
+}
+
+.logo_place_footer {
+  background-image: url(../images/logo_place_footer.svg);
 }
