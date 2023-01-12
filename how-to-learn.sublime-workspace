@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"align",
+				"align-content\tproperty"
+			],
+			[
+				"flex-",
+				"flex-basis\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"padi",
+				"padding-top\tproperty"
+			],
+			[
 				"al",
 				"align-self\tproperty"
 			],
@@ -35,7 +55,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 8174,
+				"buffer_size": 8857,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -82,12 +102,13 @@
 	],
 	"file_history":
 	[
-		"/C/Users/Кирилл/dev/how-to-learn/styles/content-description.css",
-		"/C/Users/Кирилл/dev/how-to-learn/styles/content-digits.css",
-		"/C/Users/Кирилл/dev/how-to-learn/styles/content-feynman.css",
-		"/C/Users/Кирилл/dev/how-to-learn/styles/content-kaufman.css",
-		"/C/Users/Кирилл/dev/how-to-learn/styles/footer.css",
+		"/C/Users/Кирилл/dev/how-to-learn/index.html",
 		"/C/Users/Кирилл/dev/how-to-learn/styles/header.css",
+		"/C/Users/Кирилл/dev/how-to-learn/styles/footer.css",
+		"/C/Users/Кирилл/dev/how-to-learn/styles/content-kaufman.css",
+		"/C/Users/Кирилл/dev/how-to-learn/styles/content-digits.css",
+		"/C/Users/Кирилл/dev/how-to-learn/styles/content-description.css",
+		"/C/Users/Кирилл/dev/how-to-learn/styles/content-feynman.css",
 		"/C/Users/Кирилл/dev/how-to-learn/styles/style.css",
 		"/C/Users/Кирилл/dev 1/how-to-learn/index.html",
 		"/C/Users/Кирилл/dev 1/how-to-learn/styles/style.css",
@@ -141,23 +162,25 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8174,
+						"buffer_size": 8857,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8058,
-								8058
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2808.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

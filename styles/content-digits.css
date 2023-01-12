@@ -2,7 +2,7 @@
   width: 100%;
   background-color: #fff;
   color: #000;
-  margin: 100px 0;
+  padding: 100px 0;
 }
 
 .section-title {
@@ -39,6 +39,7 @@
 	line-height: 1.15;
   font-size: 24px;
   font-weight: 600;
+  margin: 0;
 }
 
 .table__text {
