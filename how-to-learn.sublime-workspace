@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"как",
+				"каком-то"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
 				"align",
 				"align-content\tproperty"
 			],
@@ -55,7 +63,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 8857,
+				"buffer_size": 9007,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -102,14 +110,14 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Кирилл/dev/how-to-learn/styles/content-feynman.css",
+		"/C/Users/Кирилл/dev/how-to-learn/styles/style.css",
 		"/C/Users/Кирилл/dev/how-to-learn/styles/header.css",
+		"/C/Users/Кирилл/dev/how-to-learn/styles/content-digits.css",
 		"/C/Users/Кирилл/dev/how-to-learn/index.html",
 		"/C/Users/Кирилл/dev/how-to-learn/styles/footer.css",
 		"/C/Users/Кирилл/dev/how-to-learn/styles/content-kaufman.css",
-		"/C/Users/Кирилл/dev/how-to-learn/styles/content-digits.css",
 		"/C/Users/Кирилл/dev/how-to-learn/styles/content-description.css",
-		"/C/Users/Кирилл/dev/how-to-learn/styles/content-feynman.css",
-		"/C/Users/Кирилл/dev/how-to-learn/styles/style.css",
 		"/C/Users/Кирилл/dev 1/how-to-learn/index.html",
 		"/C/Users/Кирилл/dev 1/how-to-learn/styles/style.css",
 		"/C/Users/Кирилл/dev/how-to-learn/texts.md",
@@ -162,15 +170,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8857,
+						"buffer_size": 9007,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								8904,
+								8904
 							]
 						],
 						"settings":
@@ -180,7 +188,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2970.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

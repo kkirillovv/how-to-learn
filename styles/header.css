@@ -12,14 +12,15 @@
   line-height: 96px;
   font-size: 102px;
   font-weight: 600;
-  margin-left: 64px;
+  margin: 0 64px 0 0;
   align-self: center;
   z-index: 99;
 }
 
 .header__subtitle {
   position: absolute;
-  width: 388px;
+  max-width: 388px;
+  width: 100%;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
@@ -43,10 +44,6 @@
   position: absolute;
   width: 765px;
   height: 608px;
-/*  background-image: url(../images/header-image.png);
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;*/
   bottom: 0;
   right: 0;
   z-index: 1;
