@@ -110,9 +110,9 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Кирилл/dev/how-to-learn/styles/header.css",
 		"/C/Users/Кирилл/dev/how-to-learn/styles/content-feynman.css",
 		"/C/Users/Кирилл/dev/how-to-learn/styles/style.css",
-		"/C/Users/Кирилл/dev/how-to-learn/styles/header.css",
 		"/C/Users/Кирилл/dev/how-to-learn/styles/content-digits.css",
 		"/C/Users/Кирилл/dev/how-to-learn/index.html",
 		"/C/Users/Кирилл/dev/how-to-learn/styles/footer.css",
@@ -129,7 +129,7 @@
 	],
 	"find":
 	{
-		"height": 27.2
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -143,6 +143,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"h4",
 			"img"
 		],
 		"highlight": true,
@@ -177,8 +178,8 @@
 						"selection":
 						[
 							[
-								8904,
-								8904
+								7246,
+								7246
 							]
 						],
 						"settings":
@@ -188,7 +189,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2970.0,
+						"translation.y": 2381.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
