@@ -75,7 +75,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 13545,
+				"buffer_size": 13506,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -84,7 +84,7 @@
 			"file": "pages/index.css",
 			"settings":
 			{
-				"buffer_size": 5203,
+				"buffer_size": 5188,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -128,12 +128,13 @@
 	[
 		"/C/Users/Кирилл/dev/how-to-learn",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks",
-		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer",
-		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__column-link"
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__description"
 	],
 	"file_history":
 	[
 		"/C/Users/Кирилл/dev/how-to-learn/README.md",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__description/content__description.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__column-link/footer__column-link.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__khan/__buy-link/content__khan__buy-link.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/header/__link/header__link.css",
@@ -168,7 +169,6 @@
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__table/content__table.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__table/__cell/_theme/content__table__cell_theme_dark.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__table/__cell/content__table__cell.css",
-		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__description/content__description.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__kaufman/content__kaufman.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__digits/content__digits.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__section/_title/content__section_title.css",
@@ -235,6 +235,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"img",
 			"<a",
 			"h4",
 			"img"
@@ -255,7 +256,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -264,15 +265,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 13545,
+						"buffer_size": 13506,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								12721,
-								12721
+								11892,
+								11892
 							]
 						],
 						"settings":
@@ -282,10 +283,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4667.2,
+						"translation.y": 4180.8,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -294,15 +295,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5203,
+						"buffer_size": 5188,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3732,
-								3752
+								122,
+								122
 							]
 						],
 						"settings":
@@ -310,10 +311,10 @@
 							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 54.4,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
