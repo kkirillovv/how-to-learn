@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"o",
+				"opacity\tproperty"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
 				"как",
 				"каком-то"
 			],
@@ -32,10 +52,6 @@
 				"padding-top\tproperty"
 			],
 			[
-				"al",
-				"align-self\tproperty"
-			],
-			[
 				"co",
 				"content\tproperty"
 			],
@@ -50,10 +66,6 @@
 			[
 				"background-c",
 				"background-color\tproperty"
-			],
-			[
-				"h",
-				"header"
 			]
 		]
 	},
@@ -63,7 +75,16 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 9007,
+				"buffer_size": 13545,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/index.css",
+			"settings":
+			{
+				"buffer_size": 5203,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -106,13 +127,84 @@
 	"expanded_folders":
 	[
 		"/C/Users/Кирилл/dev/how-to-learn",
-		"/C/Users/Кирилл/dev/how-to-learn/styles"
+		"/C/Users/Кирилл/dev/how-to-learn/blocks",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__column-link"
 	],
 	"file_history":
 	[
+		"/C/Users/Кирилл/dev/how-to-learn/README.md",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__column-link/footer__column-link.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__khan/__buy-link/content__khan__buy-link.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/header/__link/header__link.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__feynman/__link/content__feynman__link.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__khan/__quote-author-subline/content__khan__quote-author-subline.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__khan/__quote-author/content__khan__quote-author.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__khan/__quote/content__khan__quote.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__khan/__title/content__khan__title.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__khan/__author/content__khan__author.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__khan/content__khan.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__khan/__book-pic/content__khan__book-pic.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__khan/__book-container/content__khan__book-container.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__khan/__container/content__khan__container.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/header/__square-pic/header__square-pic.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__kaufman/__triangle/content__kaufman__triangle.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/root/root.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__video/__iframes/content__video__iframes.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__video/content__video.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__oakley/content__oakley.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__feynman/content__feynman.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__video/__iframe/content__video__iframe.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__resources/content__resources.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__resources/__logo-zone/content__resources__logo-zone.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__resources/__logo/content__resources__logo.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__resources/__link/content__resources__link.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__cards/content__cards.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__cards/__item/content__cards__item.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__cards/__title/content__cards__title.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__cards/__description/content__cards__description.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__cards/__image/content__cards__image.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__techniques/content__techniques.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__table/content__table.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__table/__cell/_theme/content__table__cell_theme_dark.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__table/__cell/content__table__cell.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__description/content__description.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__kaufman/content__kaufman.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__digits/content__digits.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__section/_title/content__section_title.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__section/_subtitle/content__section_subtitle.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/header/header.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/rotation/rotation.css",
+		"/C/Users/Кирилл/dev/how-to-learn/.DS_Store",
+		"/C/Users/Кирилл/dev/how-to-learn/.editorconfig",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/header/__title/header__title.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/header/__subtitle/header__subtitle.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/header/__main-illustration/header__main-illustration.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__social-icon/footer__social-icon.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__column-links/footer__column-links.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__column-heading/footer__column-heading.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__author/footer__author.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__columns/_content/footer__columns_content_copyright.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__columns/_content/footer__columns__content_social.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__columns/_content/footer__columns__content_info.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__columns/footer__columns.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/footer.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__two-columns/content__two-columns.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__two-columns/__span-accent/content__two-columns__span-accent.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__two-columns/__paragraph/content__two-columns__paragraph.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__two-columns/__main-text/content__two-columns__main-text.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__two-columns/__brief/content__two-columns__brief.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__table/__heading/content__table__heading.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__table/__text/content__table__text.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__feynman/__title/content__feynman_title.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__feynman/__subtitle/content__feynman__subtitle.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__description/content-description.css",
+		"/C/Users/Кирилл/dev/how-to-learn/vendor/style.css",
+		"/C/Users/Кирилл/dev/how-to-learn/styles/style.css",
+		"/C/Users/Кирилл/dev/how-to-learn/pages/index.css",
+		"/C/Users/Кирилл/dev/how-to-learn/root/root.css",
 		"/C/Users/Кирилл/dev/how-to-learn/styles/header.css",
 		"/C/Users/Кирилл/dev/how-to-learn/styles/content-feynman.css",
-		"/C/Users/Кирилл/dev/how-to-learn/styles/style.css",
 		"/C/Users/Кирилл/dev/how-to-learn/styles/content-digits.css",
 		"/C/Users/Кирилл/dev/how-to-learn/index.html",
 		"/C/Users/Кирилл/dev/how-to-learn/styles/footer.css",
@@ -143,6 +235,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"<a",
 			"h4",
 			"img"
 		],
@@ -171,15 +264,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9007,
+						"buffer_size": 13545,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7246,
-								7246
+								12721,
+								12721
 							]
 						],
 						"settings":
@@ -189,10 +282,38 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2381.0,
+						"translation.y": 4667.2,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pages/index.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3732,
+								3752
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.4,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -204,7 +325,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 40.0
 	},
 	"layout":
 	{
@@ -275,7 +396,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 200.0,
+	"side_bar_width": 224.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

@@ -1,0 +1,93 @@
+@import url(../blocks/keyframes/rotation.css);
+@import url(../vendor/normalize.css);
+@import url(../blocks/root/root.css);
+
+/* подгружаем стили блока Хедер */ 
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/header/__main-illustration/header__main-illustration.css);
+@import url(../blocks/header/__square-pic/header__square-pic.css);
+
+/* подгружаем стили элемента Two-columns */
+@import url(../blocks/content/__two-columns/content__two-columns.css);
+@import url(../blocks/content/__two-columns/__brief/content__two-columns__brief.css);
+@import url(../blocks/content/__two-columns/__main-text/content__two-columns__main-text.css);
+@import url(../blocks/content/__two-columns/__paragraph/content__two-columns__paragraph.css);
+@import url(../blocks/content/__two-columns/__span-accent/content__two-columns__span-accent.css);
+
+/* подгружаем стили элемента Cards */
+@import url(../blocks/content/__cards/content__cards.css);
+@import url(../blocks/content/__cards/__item/content__cards__item.css);
+@import url(../blocks/content/__cards/__image/content__cards__image.css);
+@import url(../blocks/content/__cards/__title/content__cards__title.css);
+@import url(../blocks/content/__cards/__description/content__cards__description.css);
+
+/* подгружаем стили элемента Section */
+@import url(../blocks/content/__section/_title/content__section_title.css);
+@import url(../blocks/content/__section/_subtitle/content__section_subtitle.css);
+
+/* подгружаем стили элемента Table */
+@import url(../blocks/content/__table/content__table.css);
+@import url(../blocks/content/__table/__heading/content__table__heading.css);
+@import url(../blocks/content/__table/__text/content__table__text.css);
+@import url(../blocks/content/__table/__cell/content__table__cell.css);
+@import url(../blocks/content/__table/__cell/_theme/content__table__cell_theme_dark.css);
+
+/* подгружаем стили блока Главные проблемы обучения */
+@import url(../blocks/content/__description/content__description.css);
+
+/* подгружаем стили блока Техники обучения */
+@import url(../blocks/content/__techniques/content__techniques.css);
+
+/* подгружаем стили блока Видео на TED */
+@import url(../blocks/content/__video/content__video.css);
+@import url(../blocks/content/__video/__iframes/content__video__iframes.css);
+@import url(../blocks/content/__video/__iframe/content__video__iframe.css);
+
+/* подгружаем стили блока История Барбары Оакли */
+@import url(../blocks/content/__oakley/content__oakley.css);
+
+/* подгружаем стили блока Фейнмана */
+@import url(../blocks/content/__feynman/content__feynman.css);
+@import url(../blocks/content/__feynman/__title/content__feynman__title.css);
+@import url(../blocks/content/__feynman/__subtitle/content__feynman__subtitle.css);
+@import url(../blocks/content/__feynman/__link/content__feynman__link.css);
+
+/* подгружаем стили блока Цифры и факты */
+@import url(../blocks/content/__digits/content__digits.css);
+
+/* подгружаем стили блока Салмана Хана */
+@import url(../blocks/content/__khan/content__khan.css);
+@import url(../blocks/content/__khan/__container/content__khan__container.css);
+@import url(../blocks/content/__khan/__author/content__khan__author.css);
+@import url(../blocks/content/__khan/__title/content__khan__title.css);
+@import url(../blocks/content/__khan/__quote/content__khan__quote.css);
+@import url(../blocks/content/__khan/__quote-author/content__khan__quote-author.css);
+@import url(../blocks/content/__khan/__quote-author-subline/content__khan__quote-author-subline.css);
+@import url(../blocks/content/__khan/__book-container/content__khan__book-container.css);
+@import url(../blocks/content/__khan/__book-pic/content__khan__book-pic.css);
+@import url(../blocks/content/__khan/__buy-link/content__khan__buy-link.css);
+
+/* подгружаем стили блока Кауфмана */
+@import url(../blocks/content/__kaufman/content__kaufman.css);
+@import url(../blocks/content/__kaufman/__triangle/content__kaufman__triangle.css);
+
+/* подгружаем стили блока Полезные ресурсы */
+@import url(../blocks/content/__resources/content__resources.css);
+@import url(../blocks/content/__resources/__logo-zone/content__resources__logo-zone.css);
+@import url(../blocks/content/__resources/__link/content__resources__link.css);
+@import url(../blocks/content/__resources/__logo/content__resources__logo.css);
+
+/* подгружаем стили блока Футер */ 
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__columns/footer__columns.css);
+@import url(../blocks/footer/__columns/_content/footer__columns_content_copyright.css);
+@import url(../blocks/footer/__columns/_content/footer__columns_content_info.css);
+@import url(../blocks/footer/__columns/_content/footer__columns_content_social.css);
+@import url(../blocks/footer/__author/footer__author.css);
+@import url(../blocks/footer/__column-heading/footer__column-heading.css);
+@import url(../blocks/footer/__column-links/footer__column-links.css);
+@import url(../blocks/footer/__social-icon/footer__social-icon.css);
+@import url(../blocks/footer/__column-link/footer__column-link.css);

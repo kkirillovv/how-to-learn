@@ -1,0 +1,10 @@
+.kaufman {
+	position: relative;
+  width: 100%;
+  background-color: #1f1f1f;
+  padding: 90px 0;
+  /* просто здесь устанавливаем белый цвет для текста и не паримся с дополнительными модификаторами для темного бэкграунда*/
+  color: white;
+  overflow: hidden;
+  z-index: 2;
+}
