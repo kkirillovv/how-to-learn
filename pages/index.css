@@ -1,6 +1,7 @@
 @import url(../blocks/keyframes/rotation.css);
 @import url(../vendor/normalize.css);
 @import url(../blocks/root/root.css);
+/* подгружаем стили блока Хедер */
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
@@ -64,6 +65,7 @@
 @import url(../blocks/content/__resources/__logo-zone/content__resources__logo-zone.css);
 @import url(../blocks/content/__resources/__link/content__resources__link.css);
 @import url(../blocks/content/__resources/__logo/content__resources__logo.css);
+/* подгружаем стили блока Футер */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__columns/_content/footer__columns_content_copyright.css);
