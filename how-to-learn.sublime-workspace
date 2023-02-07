@@ -75,7 +75,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 13506,
+				"buffer_size": 13325,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -84,7 +84,7 @@
 			"file": "pages/index.css",
 			"settings":
 			{
-				"buffer_size": 5188,
+				"buffer_size": 5186,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -128,8 +128,7 @@
 	[
 		"/C/Users/Кирилл/dev/how-to-learn",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks",
-		"/C/Users/Кирилл/dev/how-to-learn/blocks/content",
-		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__description"
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/root"
 	],
 	"file_history":
 	[
@@ -235,6 +234,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"flex-row two-columns",
 			"img",
 			"<a",
 			"h4",
@@ -256,7 +256,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -265,15 +265,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 13506,
+						"buffer_size": 13325,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								11892,
-								11892
+								7184,
+								7184
 							]
 						],
 						"settings":
@@ -283,10 +283,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4180.8,
+						"translation.y": 2160.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -295,15 +295,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5188,
+						"buffer_size": 5186,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								122,
-								122
+								1326,
+								1326
 							]
 						],
 						"settings":
@@ -314,7 +314,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
