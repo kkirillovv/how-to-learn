@@ -75,7 +75,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 13494,
+				"buffer_size": 13790,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -84,7 +84,7 @@
 			"file": "pages/index.css",
 			"settings":
 			{
-				"buffer_size": 4864,
+				"buffer_size": 4823,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -128,32 +128,64 @@
 	[
 		"/C/Users/Кирилл/dev/how-to-learn",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks",
-		"/C/Users/Кирилл/dev/how-to-learn/blocks/content",
-		"/C/Users/Кирилл/dev/how-to-learn/pages"
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/cards",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/cards/__image",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/cards/__title"
 	],
 	"file_history":
 	[
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/cards/__image/cards__image.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/video/__iframe/video__iframe.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/two-columns/two-columns.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/two-columns/__paragraph/two-columns__paragraph.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/two-columns/__main-text/two-columns__main-text.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/two-columns/__brief/two-columns__brief.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/table/__text/table__text.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/table/table.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/table/__heading/table__heading.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/section-title/section-title.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/section-subtitle/section-subtitle.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/resources/__link/resources__link.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/oakley/oakley.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/link-opacity/link-opacity.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/khan/khan.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/khan/__title/khan__title.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/khan/__quote-author-subline/khan__quote-author-subline.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/khan/__quote/khan__quote.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/khan/__quote-author/khan__quote-author.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/khan/__buy-link/khan__buy-link.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/khan/__container/khan__container.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/khan/__book-pic/khan__book-pic.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/khan/__author/khan__author.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/kaufman/kaufman.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/kaufman/__triangle/kaufman__triangle.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__columns/footer__columns.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__column-links/footer__column-links.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__column/_content/footer__column_content_copyright.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__column/_content/footer__column_content_social.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/feynman/__title/feynman__title.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/feynman/__subtitle/feynman__subtitle.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/feynman/__link/feynman__link.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/digits/digits.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/cards/cards.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/cards/__item/cards__item.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/video/video.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/rotation/rotation.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/cards/__description/cards__description.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/description/description.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/content.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/root/root.css",
-		"/C/Users/Кирилл/dev/how-to-learn/blocks/resources/__link/resources__link.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/header/__link/header__link.css",
-		"/C/Users/Кирилл/dev/how-to-learn/blocks/link-opacity/link-opacity.css",
-		"/C/Users/Кирилл/dev/how-to-learn/blocks/feynman/__link/feynman__link.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__column-link/footer__column-link.css",
-		"/C/Users/Кирилл/dev/how-to-learn/blocks/khan/__buy-link/khan__buy-link.css",
 		"/C/Users/Кирилл/dev/how-to-learn/pages/index.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/logo/_place/logo_place_footer.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/logo/_place/logo_place_header.css",
-		"/C/Users/Кирилл/dev/how-to-learn/blocks/rotation/rotation.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/logo/logo.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/flex-column/flex-column.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/flex-row/flex-row.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/list/list.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/page/page.css",
-		"/C/Users/Кирилл/dev/how-to-learn/blocks/khan/__book-pic/khan__book-pic.css",
-		"/C/Users/Кирилл/dev/how-to-learn/blocks/oakley/oakley.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/feynman/feynman.css",
-		"/C/Users/Кирилл/dev/how-to-learn/blocks/kaufman/__triangle/kaufman__triangle.css",
 		"/C/Users/Кирилл/dev/how-to-learn/README.md",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__description/content__description.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__khan/__buy-link/content__khan__buy-link.css",
@@ -198,13 +230,11 @@
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/header/__subtitle/header__subtitle.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/header/__main-illustration/header__main-illustration.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__social-icon/footer__social-icon.css",
-		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__column-links/footer__column-links.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__column-heading/footer__column-heading.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__author/footer__author.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__columns/_content/footer__columns_content_copyright.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__columns/_content/footer__columns__content_social.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__columns/_content/footer__columns__content_info.css",
-		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/__columns/footer__columns.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/footer/footer.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__two-columns/content__two-columns.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/content/__two-columns/__span-accent/content__two-columns__span-accent.css",
@@ -231,13 +261,11 @@
 		"/C/Users/Кирилл/dev/how-to-learn/texts.md",
 		"/C/Users/Кирилл/dev/how-to-learn/texts-brief1.md",
 		"/C/Users/Кирилл/dev/how-to-learn/texts-brief2.md",
-		"/C/Users/Кирилл/dev/how-to-learn/portfolio/post/index.html",
-		"/C/Users/Кирилл/dev/how-to-learn/portfolio/post/style.css",
-		"/C/Users/Кирилл/dev/how-to-learn/styles/normalize.css"
+		"/C/Users/Кирилл/dev/how-to-learn/portfolio/post/index.html"
 	],
 	"find":
 	{
-		"height": 27.2
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -251,6 +279,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"content",
+			"#",
 			"../",
 			"link",
 			"footer__column_",
@@ -282,7 +312,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -291,15 +321,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 13494,
+						"buffer_size": 13790,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								11928,
-								11928
+								11512,
+								11512
 							]
 						],
 						"settings":
@@ -309,10 +339,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 4699.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -321,15 +351,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4864,
+						"buffer_size": 4823,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3101,
-								3138
+								0,
+								4823
 							]
 						],
 						"settings":
@@ -337,10 +367,10 @@
 							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 108.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
