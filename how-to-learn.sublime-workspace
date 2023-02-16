@@ -126,14 +126,15 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Кирилл/dev/how-to-learn",
-		"/C/Users/Кирилл/dev/how-to-learn/blocks",
-		"/C/Users/Кирилл/dev/how-to-learn/blocks/cards",
-		"/C/Users/Кирилл/dev/how-to-learn/blocks/cards/__image",
-		"/C/Users/Кирилл/dev/how-to-learn/blocks/cards/__title"
+		"/C/Users/Кирилл/dev/how-to-learn"
 	],
 	"file_history":
 	[
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/oakley/oakley.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/video/__iframes/video__iframes.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/video/video.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/cards/__title/cards__title.css",
+		"/C/Users/Кирилл/dev/how-to-learn/blocks/cards/cards.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/cards/__image/cards__image.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/video/__iframe/video__iframe.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/two-columns/two-columns.css",
@@ -146,7 +147,6 @@
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/section-title/section-title.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/section-subtitle/section-subtitle.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/resources/__link/resources__link.css",
-		"/C/Users/Кирилл/dev/how-to-learn/blocks/oakley/oakley.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/link-opacity/link-opacity.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/khan/khan.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/khan/__title/khan__title.css",
@@ -167,9 +167,7 @@
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/feynman/__subtitle/feynman__subtitle.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/feynman/__link/feynman__link.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/digits/digits.css",
-		"/C/Users/Кирилл/dev/how-to-learn/blocks/cards/cards.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/cards/__item/cards__item.css",
-		"/C/Users/Кирилл/dev/how-to-learn/blocks/video/video.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/rotation/rotation.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/cards/__description/cards__description.css",
 		"/C/Users/Кирилл/dev/how-to-learn/blocks/description/description.css",
@@ -259,13 +257,11 @@
 		"/C/Users/Кирилл/dev 1/how-to-learn/index.html",
 		"/C/Users/Кирилл/dev 1/how-to-learn/styles/style.css",
 		"/C/Users/Кирилл/dev/how-to-learn/texts.md",
-		"/C/Users/Кирилл/dev/how-to-learn/texts-brief1.md",
-		"/C/Users/Кирилл/dev/how-to-learn/texts-brief2.md",
-		"/C/Users/Кирилл/dev/how-to-learn/portfolio/post/index.html"
+		"/C/Users/Кирилл/dev/how-to-learn/texts-brief1.md"
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 27.2
 	},
 	"find_in_files":
 	{
@@ -339,7 +335,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4699.0,
+						"translation.y": 4699.2,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
